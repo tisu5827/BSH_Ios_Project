@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master.dia",
+    "emit-module-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master.swiftdeps"
+  },
+  "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/animalCell.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/animalCell~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/AnimalViewController.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AnimalViewController~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/AppDelegate.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/approach.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/approach~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/ImageContents.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ImageContents~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/SceneDelegate.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/SecondViewController.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/SecondViewController~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/ViewController.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/ViewModel.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.dia",
+    "index-unit-output-path" : "/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.bc",
+    "object" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/ViewModel~partial.swiftmodule"
+  }
+}

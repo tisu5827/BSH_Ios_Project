@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphoneos/ProjectUITests.build/Objects-normal/arm64/ProjectUITests-master.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphoneos/ProjectUITests.build/Objects-normal/arm64/ProjectUITests-master.dia",
+    "emit-module-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphoneos/ProjectUITests.build/Objects-normal/arm64/ProjectUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphoneos/ProjectUITests.build/Objects-normal/arm64/ProjectUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphoneos/ProjectUITests.build/Objects-normal/arm64/ProjectUITests-master.swiftdeps"
+  },
+  "/Users/mac033/Desktop/1971187/Project/ProjectUITests/ProjectUITests.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/ProjectUITests/ProjectUITestsLaunchTests.swift" : {
+
+  }
+}

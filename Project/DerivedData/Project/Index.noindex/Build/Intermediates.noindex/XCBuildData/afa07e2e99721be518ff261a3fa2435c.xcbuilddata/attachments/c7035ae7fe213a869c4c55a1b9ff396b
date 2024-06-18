@@ -1,0 +1,36 @@
+{
+  "" : {
+    "dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master.d",
+    "diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master.dia",
+    "emit-module-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/Objects-normal/x86_64/Project-master.swiftdeps"
+  },
+  "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/animalCell.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/AnimalViewController.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/AppDelegate.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/approach.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/ImageContents.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/SceneDelegate.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/SecondViewController.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1971187/Project/Project/ViewModel.swift" : {
+
+  }
+}

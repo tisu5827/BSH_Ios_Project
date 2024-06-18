@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "054d467e8b537c62778487f8fc58d9140c5e9489526b925e8109ae0b6008da46"
+build_start_time: [1718701869, 219212000]
+build_end_time: [1718701869, 576077000]
+inputs:
+  ? "/Users/mac033/Desktop/1971187/Project/DerivedData/Project/Index.noindex/Build/Intermediates.noindex/Project.build/Debug-iphonesimulator/Project.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1718693331, 985944998]
+  "/Users/mac033/Desktop/1971187/Project/Project/AnimalViewController.swift": [1718700578, 148776819]
+  "/Users/mac033/Desktop/1971187/Project/Project/AppDelegate.swift": [1718697804, 397296049]
+  "/Users/mac033/Desktop/1971187/Project/Project/ImageContents.swift": [1718701869, 186002707]
+  "/Users/mac033/Desktop/1971187/Project/Project/SceneDelegate.swift": [1718165719, 0]
+  "/Users/mac033/Desktop/1971187/Project/Project/SecondViewController.swift": [1718695356, 478179822]
+  "/Users/mac033/Desktop/1971187/Project/Project/ViewController.swift": [1718699533, 440491295]
+  "/Users/mac033/Desktop/1971187/Project/Project/ViewModel.swift": [1718696556, 83619277]
+  "/Users/mac033/Desktop/1971187/Project/Project/animalCell.swift": [1718701492, 410123462]
+  "/Users/mac033/Desktop/1971187/Project/Project/approach.swift": [1718697885, 822640760]

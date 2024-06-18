@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'ProjectUITests' in project 'Project' (no dependencies)
+Target 'ProjectUITests' in project 'Project'
+➜ Explicit dependency on target 'Project' in project 'Project'
+Target 'ProjectUITests' in project 'Project'
+➜ Explicit dependency on target 'Project' in project 'Project'
+Target 'ProjectTests' in project 'Project' (no dependencies)
+Target 'ProjectTests' in project 'Project'
+➜ Explicit dependency on target 'Project' in project 'Project'
+Target 'ProjectTests' in project 'Project'
+➜ Explicit dependency on target 'Project' in project 'Project'
+Target 'Project' in project 'Project' (no dependencies)
+Target 'Project' in project 'Project' (no dependencies)
